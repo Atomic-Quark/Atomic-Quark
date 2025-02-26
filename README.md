@@ -49,4 +49,4 @@
 <div align="center">
   <img align="right" height="300" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263"  />
 </div>
-  <img align="left" height="300" src=https://www.brwnpaperbag.com/wp-content/uploads/2016/07/rebecca-mock-3-1.gif" />
+  <img align="left" height="300" src=[https://www.brwnpaperbag.com/wp-content/uploads/2016/07/rebecca-mock-3-1.gif](https://giffiles.alphacoders.com/215/215911.gif)" />
