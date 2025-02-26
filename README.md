@@ -28,104 +28,57 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atomic-quark&" alt="atomic-quark" /></p>
 
-profile, you'll find a collection of repositories that showcase my skills and interests in various programming languages and technologies.
-🧐 About Me
 
-    ✏️ I actively create and share code on GitHub with a total of 9 public repositories.
-    🌱 My skillset includes programming languages such as Python, Java, and JavaScript, as well as frameworks like Spring Boot and React.
-    ⚡ My interests range from full-stack web development to machine learning and artificial intelligence.
-    👯 I have contributed to one external project and created multiple personal projects, some of which I am particularly proud of.
 
-🔥 My Best Projects
-1. Atomic-Quark
 
-[![Readme Card](https://github-readme-stats.vercel.app/api# Profile README
 
-Hello there! 👋 I'm Divyanshu Kumar, a software developer who loves to/pin create and/?username explore new things.=Atomic Welcome to-Qu my GitHubark& profile!
 
-repo=## GitHubAtomic- Stats
+<h2 align="left">Hi 👋! My name is Divyanshu Kumar</h2>
 
-Here are some statsQuark&show to give_icons=true you an&theme overview of=radical)](https://github.com/ my GitHubAtomic- activity:
+###
 
-QuarkGithub/Atomic Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-github-readAtomic-me-statsQuark.vercel, my.app/api?username flagship project=Atomic, is an open-Qu-source projectark)
+###
 
-that IAs you am actively can see working on, I have a. It is a total of [put 9 concise description public repositories here].. Although You can I'm check out a moderately active GitHub the repository for more user, the statistics details.
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-don't#### provide detailed information about2. Games [![Readme Card](https:// my commit frequency or the most frequently used programming languages. Nonethelessgithub-readme-stats, I.vercel actively create.app/api/pin/?username and share code on GitHub.
-Top Languages
+###
 
-When it comes to programming languages=divyanshu1610&repo=games&show_icons=true&, I enjoy workingtheme= with a variety ofradical)]( tools and technologies.https:// Here are the topgithub.com/divyanshu1610/games)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-languages I frequently use in my projects:
+###
 
-In the Games repository![Top Languages](, I have createdhttps:// various minigithub-readme-stats.vercel.app/api-games/top-l using differentangs/? programming languagesusername= and frameworksAtomic-Quark. From a tic-tac-toe)
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-Please game in note that Python to this is a memory just a game using JavaScript, glimpse of the languages this repository I use demonstrates my creativity and. I'm always problem-solving skills.
-eager to learn new languages and frameworks to expand my3. skill set.
-Projects
+###
 
-Let's File- take aConverter quick look at some[![ of myReadme Card]( notable projects:
+<br clear="both">
 
-🚀https:// Atomicgithub-read-Qume-stats.vercel.app/apiark /pin/?username=div
-My mostyanshu161 significant project0& is an open-sourcerepo=file repository named Atomic--converterQuark&show_icons=true. Although&theme it hasn't gained=rad any starsical)] yet,(https://github it holds a special place in my heart.com/div. Feel free toyans take a look athu161 it on0/file GitHub
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-File-Converter.com/Atomic- is aQuark project aimed).
-
-🎮 at providing Games a simple
-
-yet powerful Another project file conversion that showcases tool. It supports my passion converting files between different for coding and game formats, development is making it easy to work with my ' different file types. This project demonstrates my understanding ofGames' repository. While I file handling and data can't provide specific manipulation.
-
-details here### 🌐, make Connect with sure to check it Me
-
-    LinkedIn out on: my [GitHub profileDivyanshu](https Kumar.
-
-Pleaseanshu keep in mind that-kumar the descriptions1610/)
-
-    of these Twitter: projects are [@divyanshu1610](https://twitter.com/divy intentionally brief. If you're interested in more details or would like toanshu1610)
-    collaborate, feel free to connect Email: [div with meyans!
-
-Get inhuk Touch
-
-I'm always excitedumarece1610@gmail.com]( to connect with likemailto:-minded individualsdivyansh, collaborate on excitingukum projects,arece or simply1610 have a@gmail.com chat about)
-
-Feel tech and free to coding. reach out You can to me reach me for any inquiries, through the collaboration opportunities, or following channels:
-
-    questions. Email: [Enter I'm your email always open to connecting address here]
-    with fellow Twitter: developers and [Enter your Twitter exploring new projects and handle here]
-
-Connect ideas.
-
-with me### 📈 on LinkedIn GitHub Stats for more
-
-![ professional interactions: [Github StatsEnter your](https://github LinkedIn profile-readme here]
-
--stats.ver## Personalcel.app Introduction
-
-/api?Allow meusername= to introduceAtomic- myself aQuark little further&show. I_icons=true am an&theme enthusiastic software=rad developer with a passion for findingical) ![Top Langs innovative solutions to complex](https://github problems. Through my-readme-stats.ver GitHub journeycel.app, I have hon/api/toped skills in various programming languages and gained experience in different areas of software development.
-
-My focus is on continuous learning-langs/?username=Atomic-Quark&layout=compact&, which drives metheme=radical to explore)
-🏆 My Achievements
-
-[ new technologies![tro and frameworksphy](. Ihttps://github-profile strive to-trophy create clean.vercel, efficient, and.app/?username= user-friendly code whileAtomic- maintaining aQuark strong attention to detail&theme. Collabor=radical&ating withno-frame other developers=true)](https has also://github allowed me to expand my knowledge and strengthen.com/Atomic-Quark)
-✨ Bad my teamwork and communicationges
-
-skills.
-
-While GitHub offers insights into my public repositories and overall activity, it doesn![Badge't capture the entirety of my journey as](https a developer. Each://img.shields.io/badge/-BadgeName-Color commit,Code)
-
-each lineAdd a of code collection of badges here to showcase your achievements, skills, and recognition.
-
-Thank you for visiting my GitHub profile! I hope you, and each project holds a find my different story and represents my dedication to this craft.
-
-By exploring my repositories, you'll find a mix projects interesting of personal projects, experiments, and contributions to other projects. Throughout my coding journey, I’ve gained and insightful experience in various domains. Feel, including web development free to explore my repositories, game further development,, and don't hesitate to automation, reach out to me if you have any data analysis questions or simply want to connect, and. Happy coding! 😄🚀 more.
-
-That being said, there is always room for improvement, and I'm constantly seeking new challenges to enhance and refine my skills. I thrive in fast-paced environments and enjoy collaborating with fellow developers to build exceptional software solutions that make a difference.
-
-In conclusion, welcome to my GitHub profile. Feel free to explore my repositories and reach out to me with any questions or opportunities. Let's create something amazing together!
-Badges
-
-Here are some badges that provide a visual representation of my achievements and expertise:
-
-Badge
+###
