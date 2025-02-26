@@ -44,11 +44,10 @@
 </div>
 
 ###
+  <img align="center" height="300" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263"  />
+</div>
 
-<div align="center">
-  <img height="300" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263"  />
 
 <div align="center">
   <img height="300" src=https://www.brwnpaperbag.com/wp-content/uploads/2016/07/rebecca-mock-3-1.gif" />
-</div>
 ###
