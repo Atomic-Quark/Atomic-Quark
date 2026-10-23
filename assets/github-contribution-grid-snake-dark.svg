@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 160" width="100%" height="100%">
+  <defs>
+    <linearGradient id="snake-bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#161b22" />
+    </linearGradient>
+
+    <linearGradient id="snake-body" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe" />
+      <stop offset="100%" stop-color="#00ffcc" />
+    </linearGradient>
+
+    <filter id="snake-glow">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <style>
+      @keyframes snakeCrawl {
+        0% { stroke-dashoffset: 600; }
+        100% { stroke-dashoffset: 0; }
+      }
+      .snake-trail {
+        stroke-dasharray: 80 500;
+        animation: snakeCrawl 6s linear infinite;
+      }
+      @keyframes headPulse {
+        0%, 100% { r: 5; opacity: 0.8; }
+        50% { r: 7; opacity: 1; }
+      }
+      .snake-head {
+        animation: headPulse 1.5s infinite;
+      }
+    </style>
+  </defs>
+
+  <rect width="850" height="160" rx="10" fill="url(#snake-bg)" stroke="#30363d" stroke-width="1.2" />
+
+  <!-- Grid of Contribution Squares -->
+  <g fill="#161b22">
+    <!-- Generate a neat grid matrix -->
+    <!-- Column 1 to 30 -->
+    <g transform="translate(30, 25)">
+      <!-- Pattern grid representation -->
+      <path d="M0,0 h10 v10 h-10 z M15,0 h10 v10 h-10 z M30,0 h10 v10 h-10 z M45,0 h10 v10 h-10 z M60,0 h10 v10 h-10 z M75,0 h10 v10 h-10 z M90,0 h10 v10 h-10 z M105,0 h10 v10 h-10 z M120,0 h10 v10 h-10 z M135,0 h10 v10 h-10 z M150,0 h10 v10 h-10 z M165,0 h10 v10 h-10 z M180,0 h10 v10 h-10 z M195,0 h10 v10 h-10 z M210,0 h10 v10 h-10 z M225,0 h10 v10 h-10 z M240,0 h10 v10 h-10 z M255,0 h10 v10 h-10 z M270,0 h10 v10 h-10 z M285,0 h10 v10 h-10 z M300,0 h10 v10 h-10 z M315,0 h10 v10 h-10 z M330,0 h10 v10 h-10 z M345,0 h10 v10 h-10 z M360,0 h10 v10 h-10 z M375,0 h10 v10 h-10 z M390,0 h10 v10 h-10 z M405,0 h10 v10 h-10 z M420,0 h10 v10 h-10 z M435,0 h10 v10 h-10 z M450,0 h10 v10 h-10 z M465,0 h10 v10 h-10 z M480,0 h10 v10 h-10 z M495,0 h10 v10 h-10 z M510,0 h10 v10 h-10 z M525,0 h10 v10 h-10 z M540,0 h10 v10 h-10 z M555,0 h10 v10 h-10 z M570,0 h10 v10 h-10 z M585,0 h10 v10 h-10 z M600,0 h10 v10 h-10 z M615,0 h10 v10 h-10 z M630,0 h10 v10 h-10 z M645,0 h10 v10 h-10 z M660,0 h10 v10 h-10 z M675,0 h10 v10 h-10 z M690,0 h10 v10 h-10 z M705,0 h10 v10 h-10 z M720,0 h10 v10 h-10 z M735,0 h10 v10 h-10 z M750,0 h10 v10 h-10 z M765,0 h10 v10 h-10 z M780,0 h10 v10 h-10 z" fill="#21262d" />
+      <path d="M0,15 h10 v10 h-10 z M15,15 h10 v10 h-10 z M30,15 h10 v10 h-10 z M45,15 h10 v10 h-10 z M60,15 h10 v10 h-10 z M75,15 h10 v10 h-10 z M90,15 h10 v10 h-10 z M105,15 h10 v10 h-10 z M120,15 h10 v10 h-10 z M135,15 h10 v10 h-10 z M150,15 h10 v10 h-10 z M165,15 h10 v10 h-10 z M180,15 h10 v10 h-10 z M195,15 h10 v10 h-10 z M210,15 h10 v10 h-10 z M225,15 h10 v10 h-10 z M240,15 h10 v10 h-10 z M255,15 h10 v10 h-10 z M270,15 h10 v10 h-10 z M285,15 h10 v10 h-10 z M300,15 h10 v10 h-10 z M315,15 h10 v10 h-10 z M330,15 h10 v10 h-10 z M345,15 h10 v10 h-10 z M360,15 h10 v10 h-10 z M375,15 h10 v10 h-10 z M390,15 h10 v10 h-10 z M405,15 h10 v10 h-10 z M420,15 h10 v10 h-10 z M435,15 h10 v10 h-10 z M450,15 h10 v10 h-10 z M465,15 h10 v10 h-10 z M480,15 h10 v10 h-10 z M495,15 h10 v10 h-10 z M510,15 h10 v10 h-10 z M525,15 h10 v10 h-10 z M540,15 h10 v10 h-10 z M555,15 h10 v10 h-10 z M570,15 h10 v10 h-10 z M585,15 h10 v10 h-10 z M600,15 h10 v10 h-10 z M615,15 h10 v10 h-10 z M630,15 h10 v10 h-10 z M645,15 h10 v10 h-10 z M660,15 h10 v10 h-10 z M675,15 h10 v10 h-10 z M690,15 h10 v10 h-10 z M705,15 h10 v10 h-10 z M720,15 h10 v10 h-10 z M735,15 h10 v10 h-10 z M750,15 h10 v10 h-10 z M765,15 h10 v10 h-10 z M780,15 h10 v10 h-10 z" fill="#0e4429" />
+      <path d="M0,30 h10 v10 h-10 z M15,30 h10 v10 h-10 z M30,30 h10 v10 h-10 z M45,30 h10 v10 h-10 z M60,30 h10 v10 h-10 z M75,30 h10 v10 h-10 z M90,30 h10 v10 h-10 z M105,30 h10 v10 h-10 z M120,30 h10 v10 h-10 z M135,30 h10 v10 h-10 z M150,30 h10 v10 h-10 z M165,30 h10 v10 h-10 z M180,30 h10 v10 h-10 z M195,30 h10 v10 h-10 z M210,30 h10 v10 h-10 z M225,30 h10 v10 h-10 z M240,30 h10 v10 h-10 z M255,30 h10 v10 h-10 z M270,30 h10 v10 h-10 z M285,30 h10 v10 h-10 z M300,30 h10 v10 h-10 z M315,30 h10 v10 h-10 z M330,30 h10 v10 h-10 z M345,30 h10 v10 h-10 z M360,30 h10 v10 h-10 z M375,30 h10 v10 h-10 z M390,30 h10 v10 h-10 z M405,30 h10 v10 h-10 z M420,30 h10 v10 h-10 z M435,30 h10 v10 h-10 z M450,30 h10 v10 h-10 z M465,30 h10 v10 h-10 z M480,30 h10 v10 h-10 z M495,30 h10 v10 h-10 z M510,30 h10 v10 h-10 z M525,30 h10 v10 h-10 z M540,30 h10 v10 h-10 z M555,30 h10 v10 h-10 z M570,30 h10 v10 h-10 z M585,30 h10 v10 h-10 z M600,30 h10 v10 h-10 z M615,30 h10 v10 h-10 z M630,30 h10 v10 h-10 z M645,30 h10 v10 h-10 z M660,30 h10 v10 h-10 z M675,30 h10 v10 h-10 z M690,30 h10 v10 h-10 z M705,30 h10 v10 h-10 z M720,30 h10 v10 h-10 z M735,30 h10 v10 h-10 z M750,30 h10 v10 h-10 z M765,30 h10 v10 h-10 z M780,30 h10 v10 h-10 z" fill="#006d32" />
+      <path d="M0,45 h10 v10 h-10 z M15,45 h10 v10 h-10 z M30,45 h10 v10 h-10 z M45,45 h10 v10 h-10 z M60,45 h10 v10 h-10 z M75,45 h10 v10 h-10 z M90,45 h10 v10 h-10 z M105,45 h10 v10 h-10 z M120,45 h10 v10 h-10 z M135,45 h10 v10 h-10 z M150,45 h10 v10 h-10 z M165,45 h10 v10 h-10 z M180,45 h10 v10 h-10 z M195,45 h10 v10 h-10 z M210,45 h10 v10 h-10 z M225,45 h10 v10 h-10 z M240,45 h10 v10 h-10 z M255,45 h10 v10 h-10 z M270,45 h10 v10 h-10 z M285,45 h10 v10 h-10 z M300,45 h10 v10 h-10 z M315,45 h10 v10 h-10 z M330,45 h10 v10 h-10 z M345,45 h10 v10 h-10 z M360,45 h10 v10 h-10 z M375,45 h10 v10 h-10 z M390,45 h10 v10 h-10 z M405,45 h10 v10 h-10 z M420,45 h10 v10 h-10 z M435,45 h10 v10 h-10 z M450,45 h10 v10 h-10 z M465,45 h10 v10 h-10 z M480,45 h10 v10 h-10 z M495,45 h10 v10 h-10 z M510,45 h10 v10 h-10 z M525,45 h10 v10 h-10 z M540,45 h10 v10 h-10 z M555,45 h10 v10 h-10 z M570,45 h10 v10 h-10 z M585,45 h10 v10 h-10 z M600,45 h10 v10 h-10 z M615,45 h10 v10 h-10 z M630,45 h10 v10 h-10 z M645,45 h10 v10 h-10 z M660,45 h10 v10 h-10 z M675,45 h10 v10 h-10 z M690,45 h10 v10 h-10 z M705,45 h10 v10 h-10 z M720,45 h10 v10 h-10 z M735,45 h10 v10 h-10 z M750,45 h10 v10 h-10 z M765,45 h10 v10 h-10 z M780,45 h10 v10 h-10 z" fill="#26a641" />
+      <path d="M0,60 h10 v10 h-10 z M15,60 h10 v10 h-10 z M30,60 h10 v10 h-10 z M45,60 h10 v10 h-10 z M60,60 h10 v10 h-10 z M75,60 h10 v10 h-10 z M90,60 h10 v10 h-10 z M105,60 h10 v10 h-10 z M120,60 h10 v10 h-10 z M135,60 h10 v10 h-10 z M150,60 h10 v10 h-10 z M165,60 h10 v10 h-10 z M180,60 h10 v10 h-10 z M195,60 h10 v10 h-10 z M210,60 h10 v10 h-10 z M225,60 h10 v10 h-10 z M240,60 h10 v10 h-10 z M255,60 h10 v10 h-10 z M270,60 h10 v10 h-10 z M285,60 h10 v10 h-10 z M300,60 h10 v10 h-10 z M315,60 h10 v10 h-10 z M330,60 h10 v10 h-10 z M345,60 h10 v10 h-10 z M360,60 h10 v10 h-10 z M375,60 h10 v10 h-10 z M390,60 h10 v10 h-10 z M405,60 h10 v10 h-10 z M420,60 h10 v10 h-10 z M435,60 h10 v10 h-10 z M450,60 h10 v10 h-10 z M465,60 h10 v10 h-10 z M480,60 h10 v10 h-10 z M495,60 h10 v10 h-10 z M510,60 h10 v10 h-10 z M525,60 h10 v10 h-10 z M540,60 h10 v10 h-10 z M555,60 h10 v10 h-10 z M570,60 h10 v10 h-10 z M585,60 h10 v10 h-10 z M600,60 h10 v10 h-10 z M615,60 h10 v10 h-10 z M630,60 h10 v10 h-10 z M645,60 h10 v10 h-10 z M660,60 h10 v10 h-10 z M675,60 h10 v10 h-10 z M690,60 h10 v10 h-10 z M705,60 h10 v10 h-10 z M720,60 h10 v10 h-10 z M735,60 h10 v10 h-10 z M750,60 h10 v10 h-10 z M765,60 h10 v10 h-10 z M780,60 h10 v10 h-10 z" fill="#39d353" />
+    </g>
+
+    <!-- Animated Snake Path -->
+    <path d="M 40 40 L 250 40 L 250 85 L 500 85 L 500 55 L 750 55 L 750 90 L 800 90" fill="none" stroke="url(#snake-body)" stroke-width="4.5" stroke-linecap="round" class="snake-trail" filter="url(#snake-glow)" />
+  </g>
+
+  <!-- Snake Head / Indicator -->
+  <circle cx="800" cy="90" r="5" fill="#00ffcc" class="snake-head" filter="url(#snake-glow)" />
+
+  <!-- Subtitle Caption -->
+  <text x="425" y="135" text-anchor="middle" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Fira Code', monospace" font-size="12" letter-spacing="1">
+    ⚡ <tspan fill="#00f2fe">Continuous Contribution Matrix</tspan> • Powered by Platane/snk
+  </text>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 16" width="100%" height="100%">
+  <defs>
+    <linearGradient id="div-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe" stop-opacity="0" />
+      <stop offset="25%" stop-color="#00f2fe" stop-opacity="0.5" />
+      <stop offset="50%" stop-color="#4facfe" stop-opacity="1" />
+      <stop offset="75%" stop-color="#00ffcc" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#00ffcc" stop-opacity="0" />
+    </linearGradient>
+
+    <filter id="div-glow">
+      <feGaussianBlur stdDeviation="2" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <style>
+      @keyframes pulseNode {
+        0%, 100% { transform: scale(1); opacity: 0.6; }
+        50% { transform: scale(1.3); opacity: 1; }
+      }
+      .pulse-diamond {
+        transform-origin: 450px 8px;
+        animation: pulseNode 3s infinite ease-in-out;
+      }
+    </style>
+  </defs>
+
+  <!-- Glowing Line -->
+  <line x1="20" y1="8" x2="880" y2="8" stroke="url(#div-grad)" stroke-width="1.8" filter="url(#div-glow)" />
+
+  <!-- Center Diamond -->
+  <polygon points="450,3 455,8 450,13 445,8" fill="#00f2fe" class="pulse-diamond" filter="url(#div-glow)" />
+</svg>
