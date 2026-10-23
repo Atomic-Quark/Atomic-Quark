@@ -115,64 +115,6 @@
 
 <br />
 
-<!-- ==================== FEATURED PROJECTS ==================== -->
-### 📌 Engineering Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">🧠 EEG-Based Speech Decoding</h3>
-      <p align="left">
-        Researching non-invasive Brain-Computer Interfaces (BCI). Reconstructing articulated speech phonemes directly from multi-channel electroencephalogram (EEG) biosignals using deep neural architectures.
-      </p>
-      <p align="left">
-        <code>Python</code> • <code>PyTorch</code> • <code>Signal Processing</code> • <code>BCI</code>
-      </p>
-      <a href="https://github.com/Atomic-Quark"><b>View Prototype ➔</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">⚛️ Atom Workspace</h3>
-      <p align="left">
-        High-throughput developer platform and computational framework designed for modular intelligence pipelines, automated task orchestration, and intelligent system integration.
-      </p>
-      <p align="left">
-        <code>JavaScript</code> • <code>Node.js</code> • <code>React</code> • <code>API</code>
-      </p>
-      <a href="https://github.com/Atomic-Quark/ATOM"><b>View Repository ➔</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">⚙️ Core Engine Runtime</h3>
-      <p align="left">
-        Distributed micro-engine featuring slab-allocated LRU memory caching, zero-copy ring buffers, TLS 1.3 encryption, and resilient exponential backoff networking.
-      </p>
-      <p align="left">
-        <code>Python</code> • <code>Concurrency</code> • <code>Distributed Systems</code>
-      </p>
-      <a href="https://github.com/Atomic-Quark"><b>View Architecture ➔</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">🌐 Criation Cloud Platform</h3>
-      <p align="left">
-        Modern cloud storage and responsive web interface providing scalable file management, authentication, and dynamic real-time dashboard analytics.
-      </p>
-      <p align="left">
-        <code>React</code> • <code>Express.js</code> • <code>MongoDB</code> • <code>Tailwind</code>
-      </p>
-      <a href="https://github.com/Atomic-Quark/Criation-UI"><b>View Project ➔</b></a>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<div align="center">
-  <img src="assets/divider.svg" alt="Divider" width="100%" />
-</div>
-
-<br />
-
 <!-- ==================== GITHUB ANALYTICS & SNAKE ==================== -->
 ### 📊 GitHub Activity & Real-Time Analytics
 
